@@ -11,7 +11,7 @@
           <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1920px-Client-server-model.svg.png" width = "50%">
    
    - (1-1) 기술 종류
-        - Android 운영 체제
+      - Android 운영 체제
    	   - Google에서 만들어짐
 	      	- Google의 역사
 		  - goole은? : 전 세계의 정보를 체계화하여 모든 사용자가 편리하게 이용할 수 있도록 하는 것을 목표로 하는 미국의 다국적 기업.
